@@ -1,4 +1,4 @@
-# FashionProject
+# Fashion Project
 Этот проект является сервисом поддержки для русскоязычных пользователей Fashion Project, который находится по адресу [https://github.com/TriumphLLC/FashionProject](https://github.com/TriumphLLC/FashionProject). 
 
 ## Установка
@@ -11,7 +11,7 @@
 
 ## Лицензия
 
-| Состав и условия                           | Fashion Project Free | Fashin Project Pro |
+| Состав и условия                           | Fashion Project Free | Fashion Project Pro |
 |-------------------------------------------------------|----------------------|--------------------|
 | Полный исходный код платформы                    |           +          |          +         |
 | Возможность модификации функционала                                |           +          |          +         |
