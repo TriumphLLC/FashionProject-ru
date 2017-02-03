@@ -16,8 +16,8 @@
 | Полный исходный код платформы                    |           +          |          +         |
 | Возможность модификации функционала                                |           +          |          +         |
 | Набор простых примеров и демо-приложений                            |           +          |          +         |
-| Лицензия                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject-ru/blob/master/LICENSE)       |     [commercial](https://github.com/TriumphLLC/FashionProject/License%20Agreement/Fashion_Project_Pro_License_ru.pdf)     |
-| Возможность использования в коммерческих продуктах                   |  with restrictions * |          +         |
+| Лицензия                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject-ru/blob/master/LICENSE)       |     [коммерческая](https://github.com/TriumphLLC/FashionProject/License%20Agreement/Fashion_Project_Pro_License_ru.pdf)     |
+| Возможность использования в коммерческих продуктах                   |  с ограничениями * |          +         |
 | Техническая поддержка                                     |                      |          +         |
 | Библиотека базовых конструкций                                 |                      |          +         |
 | Стоимость на одного разработчика (программиста, 3D художника) |                      |        1000$       |
