@@ -7,7 +7,7 @@
 Далее в меню __File -> User Preferences -> Add-ons__, in __Supported Level__ выбирите __Testing__, включите плагин __BPY: Fashion Project__.
   
 ## Поддержка
-Мы всегда рады ответить Вам на Ваши вопросы [here](https://github.com/TriumphLLC/FashionProject/issues).
+Мы всегда рады ответить Вам на Ваши вопросы [здесь](https://github.com/TriumphLLC/FashionProject-ru/issues).
 
 ## Лицензия
 
@@ -16,8 +16,8 @@
 | Полный исходный код платформы                    |           +          |          +         |
 | Возможность модификации функционала                                |           +          |          +         |
 | Набор простых примеров и демо-приложений                            |           +          |          +         |
-| Лицензия                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject-ru/blob/master/LICENSE)       |     [commercial](https://github.com/TriumphLLC/FashionProject/License%20Agreement/Fashion_Project_Pro_License_ru.pdf)     |
-| Возможность использования в коммерческих продуктах                   |  with restrictions * |          +         |
+| Лицензия                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject-ru/blob/master/LICENSE)       |     [коммерческая](https://github.com/TriumphLLC/FashionProject-ru/blob/master/License%20Agreement/Fashion_Project_Pro_License_ru.pdf)     |
+| Возможность использования в коммерческих продуктах                   |  с ограничениями * |          +         |
 | Техническая поддержка                                     |                      |          +         |
 | Библиотека базовых конструкций                                 |                      |          +         |
 | Стоимость на одного разработчика (программиста, 3D художника) |                      |        1000$       |
@@ -27,4 +27,16 @@
 Если Вам нужна дополнительная информация, пожалуйста, свяжитесь с нами 
 
 ## Контакты
-E-mail: shkubelev.nikolay@triumph.msk.ru
+ООО «Триумф»
+
+Адрес регистрации: Россия, 109044, г. Москва, ул. Воронцовская, д. 8, корп. 7
+
+Почтовый адрес: Россия, 109044, 2-й Крутицкий пер., д. 18, стр. 3
+
+Адрес электронной почты: info@fashionproject.pro
+
+Телефон: +7 (495) 676-36-60
+
+Сайт: https://github.com/TriumphLLC/FashionProject/
+
+
