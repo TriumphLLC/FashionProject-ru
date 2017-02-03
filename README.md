@@ -15,7 +15,7 @@
 | Полный исходный код платформы                    |           +          |          +         |
 | Возможность модификации функционала                                |           +          |          +         |
 | Набор простых примеров и демо-приложений                            |           +          |          +         |
-| Лицензия                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject/blob/master/LICENSE)       |     [commercial](https://github.com/TriumphLLC/FashionProject/License%20Agreement/Fashion_Project_Pro_License_en.pdf)     |
+| Лицензия                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject-ru/blob/master/LICENSE)       |     [commercial](https://github.com/TriumphLLC/FashionProject/License%20Agreement/Fashion_Project_Pro_License_ru.pdf)     |
 | Возможность использования в коммерческих продуктах                   |  with restrictions * |          +         |
 | Техническая поддержка                                     |                      |          +         |
 | Библиотека базовых конструкций                                 |                      |          +         |
