@@ -7,7 +7,7 @@
 Далее в меню __File -> User Preferences -> Add-ons__, in __Supported Level__ выбирите __Testing__, включите плагин __BPY: Fashion Project__.
   
 ## Поддержка
-Мы всегда рады ответить Вам на Ваши вопросы [here](https://github.com/TriumphLLC/FashionProject/issues).
+Мы всегда рады ответить Вам на Ваши вопросы [здесь](https://github.com/TriumphLLC/FashionProject-ru/issues).
 
 ## Лицензия
 
@@ -33,7 +33,7 @@
 
 Почтовый адрес: Россия, 109044, 2-й Крутицкий пер., д. 18, стр. 3
 
-Адрес электронной почты: shkubelev.nikolay@triumph.msk.ru
+Адрес электронной почты: info@fashionproject.pro
 
 Телефон: +7 (495) 676-36-60
 
