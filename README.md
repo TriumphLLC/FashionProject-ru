@@ -1,4 +1,5 @@
 # FashionProject
+Этот проект является сервисом поддержки для русскоязычных пользователей Fashion Project, который находится по адресу [https://github.com/TriumphLLC/FashionProject](https://github.com/TriumphLLC/FashionProject). 
 
 ## Установка
 Скопируйте папку `{blender directory}/{blender version}/scripts/addons/`
