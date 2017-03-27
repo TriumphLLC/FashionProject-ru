@@ -4,7 +4,7 @@
 ## Установка
 Скопируйте папку `{blender directory}/{blender version}/scripts/addons/`
 
-Далее в меню __File -> User Preferences -> Add-ons__, in __Supported Level__ выбирите __Testing__, включите плагин __BPY: Fashion Project__.
+Далее в меню __File -> User Preferences -> Add-ons__, в __Supported Level__ выберите __Testing__, включите плагин __BPY: Fashion Project__.
   
 ## Поддержка
 Мы всегда рады ответить Вам на Ваши вопросы [здесь](https://github.com/TriumphLLC/FashionProject-ru/issues).
